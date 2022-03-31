@@ -2,7 +2,7 @@
 <br>
 <br>
 
-## Introduction:
+## Introduction
 <br>
 
 quiz is a simple application using c programming language.The quiz is based on c language .Any user can take quiz by entering the name of the user.After entering the details like name,the user allowed to take the quiz.The quiz contains total 10 questions .User has to complete all the 10 questions in order to pass the quiz.It is complied in Visual Studio code using GCC compiler.
@@ -22,7 +22,7 @@ The Key features of quiz are:
 2.Visual studio Code
 <br>
 
-## SWOT Analysis:
+## SWOT Analysis
 
 ![Screenshot (289)](https://user-images.githubusercontent.com/89694095/132469341-64b936b3-d3e4-4520-a745-ed9a70e6cecb.png)
 
